@@ -3,6 +3,8 @@
 //Exo 01
 //Let: slide 50
 //const: slide 51/37
+//console.log() slide 33
+//functions: slide 45
 
 //Function 01: Display the 'nom' "John" in the console
 function f1(){
