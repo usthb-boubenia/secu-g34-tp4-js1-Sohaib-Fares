@@ -1,3 +1,5 @@
+"use strict"
+
 //Exo: 02
 
 //const: slide 51/37
